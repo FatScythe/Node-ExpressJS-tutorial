@@ -1,0 +1,13 @@
+
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
+This file was created with the "writeFileSync" method, 
+Here is the result: Hello this is first text file and Hello this is second text file
